@@ -1,0 +1,20 @@
+.card-body {
+  padding: 0 2rem;
+  text-align: left;
+  margin-top: 2rem;
+}
+
+.about h3,
+.interests h3 {
+  color: aliceblue;
+  font-size: 1.6rem;
+  margin-bottom: 0.8rem;
+}
+
+.about p,
+.interests p {
+  color: #dcdcdc;
+  font-size: 1.3rem;
+  line-height: 1.4;
+  margin-bottom: 2rem;
+}

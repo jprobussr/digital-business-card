@@ -1,0 +1,28 @@
+.card-footer {
+  padding: 1.5rem 0;
+  text-align: center;
+  border-top: 1px solid #ccc;
+  margin-top: 2rem;
+}
+
+.footer-name {
+  color: aliceblue;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.social-icons a {
+    color: #f5f5f5;
+    font-size: 2rem;
+    transition: color .3s ease;
+}
+
+.social-icons a:hover {
+  color: #5093e2; /* highlight on hover */
+}
